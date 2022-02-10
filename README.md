@@ -1,2 +1,2 @@
-# django_Rest_api
+wip
 Restful architecture to create APIs' using Django framework

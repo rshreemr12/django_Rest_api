@@ -1,2 +1,8 @@
-wip
-Restful architecture to create APIs' using Django framework
+wip <br>
+# Shopping site 
+
+Basic shopping site which does minimum task.
+Features embeded are shopping cart, user login, item selection and updating the cart.
+
+#Todo:
+integrating with payment

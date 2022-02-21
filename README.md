@@ -1,4 +1,3 @@
-wip <br>
 # Shopping site 
 
 Basic shopping site which does minimum task.
